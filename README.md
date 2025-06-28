@@ -3,10 +3,9 @@
 This repository provides a comprehensive solution for developing and deploying 3D waypoint-based autonomous navigation systems using ROS. It is particularly suited for ground-based robots, enabling advanced capabilities such as collision avoidance, terrain traversability analysis, waypoint following, and visualization in simulation environments.
 
 <div align="center">
-  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="600">
+  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="400">
+  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="400">
 </div>
-
----
 
 ## Features
 
@@ -25,6 +24,12 @@ This repository provides a comprehensive solution for developing and deploying 3
 * **ROS Version:** ROS Melodic
 
 ---
+
+## Repository Workflow
+
+<div align="center">
+  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="800">
+</div>
 
 ## Installation
 
