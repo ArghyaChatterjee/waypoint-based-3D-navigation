@@ -94,11 +94,7 @@ roslaunch waypoint_example waypoint_example_garage.launch
 
 This ROS node includes navigation boundaries and speed control, guiding the vehicle smoothly through multiple waypoints.
 
-<div align="center">
-  <img src="img/header.jpg" alt="ROS Waypoint Navigation" width="600">
-</div>
-
 ---
 
 ## Acknowledgement 
-We sincerely thank the developers and contributors of [Autonomous Exploration Development Environment by CMU](https://github.com/HongbiaoZ/autonomous_exploration_development_environment).
+We sincerely thank the developers and contributors of [Autonomous Exploration Development Environment](https://github.com/HongbiaoZ/autonomous_exploration_development_environment).
