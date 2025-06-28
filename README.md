@@ -40,8 +40,8 @@ sudo apt install libusb-dev
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/HongbiaoZ/autonomous_exploration_development_environment.git
-cd waypoint-based-3D-navigation-in-ros
+git clone https://github.com/ArghyaChatterjee/waypoint-based-3D-navigation.git
+cd waypoint-based-3D-navigation
 ```
 
 ### Build the ROS Workspace
