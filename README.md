@@ -3,9 +3,18 @@
 This repository provides a comprehensive solution for developing and deploying 3D waypoint-based autonomous navigation systems using ROS. It is particularly suited for ground-based robots, enabling advanced capabilities such as collision avoidance, terrain traversability analysis, waypoint following, and visualization in simulation environments.
 
 <div align="center">
-  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="400">
-  <img src="img/waypoint_3d.png" alt="3D Waypoint Navigation" width="400">
+  <a href="https://www.youtube.com/watch?v=Zn27XjEUDJ4">
+    <img src="img/tare_planner.gif" alt="TARE Planner" width="400">
+  </a>
+  <a href="https://www.youtube.com/watch?v=5wpd2nkZkVM">
+    <img src="img/dsv_planner.gif" alt="DSV Planner" width="400">
+  </a>
+  <br>
+  <b>TARE Planner</b>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <b>DSV Planner</b>
 </div>
+
 
 ## Features
 
